@@ -1,8 +1,10 @@
-CNN: epoch:10 
-    -> train_acc: 59.7%, test_acc: 62.8%
-    -> train_loss: 1.136342, test_loss: 1.052345
-ViT: epoch:10 
-    -> train Error:
-        Accuracy: 23.2%, Avg loss: 2.045283 
-    -> test Error:
-        Accuracy: 24.9%, Avg loss: 2.018468 
+CNN: epoch:20 
+    -> Train Error: 
+        Accuracy: 70.9%, Avg loss: 0.836373 
+    -> Test Error: 
+        Accuracy: 71.0%, Avg loss: 0.801939 
+ViT: epoch:20 
+    -> Train Error: 
+        Accuracy: 29.0%, Avg loss: 1.906025 
+    -> Test Error: 
+        Accuracy: 29.0%, Avg loss: 1.901212 
